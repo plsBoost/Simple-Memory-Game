@@ -4,7 +4,7 @@
 
 Submitted by: **Adnan Aman**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 Link to project: [Memory-Game Website](https://striped-honeysuckle-minute.glitch.me)
 
@@ -42,7 +42,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 
 ![](https://i.imgur.com/totW6Uk.gif)
-![](gif2-link-here)
+![](https://i.imgur.com/BN2NMSE.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
