@@ -6,7 +6,7 @@ Submitted by: **Adnan Aman**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: [Memory-Game Website](https://striped-honeysuckle-minute.glitch.me)
 
 ## Required Functionality
 
@@ -39,23 +39,29 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+
+
+![](https://i.imgur.com/totW6Uk.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+    I only used [RapidTables](https://www.rapidtables.com/web/css/css-color.html) to figure out CSS colors. The side was given in the CodePath prework.
+    
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+
+    One problem I had was figuring out which colors I should use for my buttons. I looked through the pre-work to find a website that displayed certain types of colors that were compatible with CSS. I learned that there were many types of names you could use as well as the specific hex-code for the color you want to pick. Another topic which really was a challenge was all the types of CSS properities. There are a lot of things you must take into account when you are using CSS and I thought that was pretty interesting. I used the pre-work guide to help me understand more about CSS. I actually never knew that HTML code could call on JavaScript and be customized a lot using CSS. The pre-work had a guide which I used in order to look at all the different types of CSS properties. There were fonts, grids, animations, padding, and plenty of other properties which I will go back and look at in the future. I never really thought much about the CSS that goes behind websites and I am pretty amazed.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+    I have plenty of questions about web development. When and how was CSS created? How is HTML able to call on JavaScript using event handler? I also am curious as to why there are a lot of versions of JavaScript Frameworks such as React, Angular, Node.JS? How do websites show up on mobile devices versus regular computers? What types of projects do web developers work on? How do packages work in the context of web development? What does the back-end consist of? Are there any other technologies besides HTML, CSS, and JavaScript that play a role in web development?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+    
+    If I had a few more hours to work on this project, I would like to add some additional features such as variable time/speed depending on how far the player is through the memory game. Another thing I would have added is possibly more CSS styling to the whole page to make it look like a more polished game. I would also randomize the pattern every game so that no player gets the same pattern. One last thing I would implement is a small clock/ticking sound in order to give players a sense of time and how much they have left to click the pattern.
 
 
 
